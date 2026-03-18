@@ -1,11 +1,16 @@
 (function () {
   const SHOPIFY_API_FRAGMENT = "originalsin-store.myshopify.com/api/";
   const CART_STATE_KEY = "originalsin_local_cart_state_v1";
-  const CATALOG_PATH = "/__local/catalog.json";
   const nativeFetch = window.fetch ? window.fetch.bind(window) : null;
   let catalogPromise;
 
   if (!nativeFetch) return;
+
+  function localUrl(path) {
+    return new URL(path.replace(/^\//, ""), document.baseURI).toString();
+  }
+
+  const CATALOG_PATH = localUrl("__local/catalog.json");
 
   function clone(value) {
     return JSON.parse(JSON.stringify(value));
@@ -47,7 +52,7 @@
   function createEmptyCart() {
     return {
       id: `gid://local/Cart/${randomId("cart")}`,
-      checkoutUrl: "/checkout",
+      checkoutUrl: localUrl("checkout"),
       lines: [],
     };
   }
