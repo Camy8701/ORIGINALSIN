@@ -1,0 +1,1 @@
+import{_ as a,k as n,o as c,b as s}from"./CCXT-GXq.js";const o={},t={class:"squared-line"};function l(r,e){return c(),n("span",t,[...e[0]||(e[0]=[s("span",{class:"square"},null,-1),s("span",{class:"line"},null,-1),s("span",{class:"square"},null,-1)])])}const p=a(o,[["render",l],["__scopeId","data-v-725cf86a"]]);export{p as default};

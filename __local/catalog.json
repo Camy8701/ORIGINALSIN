@@ -1,0 +1,1634 @@
+{
+  "products": [
+    {
+      "id": "gid://shopify/Product/10078947541287",
+      "handle": "chrysalis-knit-sweater",
+      "title": "Chrysalis Knit Sweater",
+      "description": "The Chrysalis Knit Sweater is crafted from 12-gauge birdseye knit in a full-fashioned construction. Custom jacquard artwork is woven into the chest and sleeves in onyx against a natural ground. Hand-done distressing is applied throughout the garment, creating deliberate fraying at the collar, cuffs, and hem.",
+      "descriptionHtml": "<p>The Chrysalis Knit Sweater is crafted from 12-gauge birdseye knit in a full-fashioned construction. Custom jacquard artwork is woven into the chest and sleeves in onyx against a natural ground. Hand-done distressing is applied throughout the garment, creating deliberate fraying at the collar, cuffs, and hem.\u00a0</p>",
+      "featuredImage": {
+        "height": 2695,
+        "width": 2169,
+        "altText": null,
+        "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "90.0",
+          "currencyCode": "USD"
+        },
+        "maxVariantPrice": {
+          "amount": "90.0",
+          "currencyCode": "USD"
+        }
+      },
+      "productType": "",
+      "tags": [],
+      "availableForSale": false,
+      "vendor": "originalsin-store",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12628661109031",
+          "name": "Size",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5954442035495",
+              "name": "XS"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954442068263",
+              "name": "S"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954442101031",
+              "name": "M"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954442133799",
+              "name": "L"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954442166567",
+              "name": "XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954442199335",
+              "name": "2XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954442232103",
+              "name": "3XL"
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductOption/12647161266471",
+          "name": "Color Variant",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5982109040935",
+              "name": "Causality Knit Sweater - Bone"
+            }
+          ]
+        }
+      ],
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/50966269264167",
+            "title": "XS / Causality Knit Sweater - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603002-BONE-XS",
+            "price": {
+              "amount": "90.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XS"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Causality Knit Sweater - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966269296935",
+            "title": "S / Causality Knit Sweater - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603002-BONE-S",
+            "price": {
+              "amount": "90.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "S"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Causality Knit Sweater - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966269329703",
+            "title": "M / Causality Knit Sweater - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603001-BONE-M",
+            "price": {
+              "amount": "90.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "M"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Causality Knit Sweater - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966269362471",
+            "title": "L / Causality Knit Sweater - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603001-BONE-L",
+            "price": {
+              "amount": "90.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "L"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Causality Knit Sweater - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966269395239",
+            "title": "XL / Causality Knit Sweater - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603002-BONE-XL",
+            "price": {
+              "amount": "90.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Causality Knit Sweater - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966269428007",
+            "title": "2XL / Causality Knit Sweater - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603002-BONE-2XL",
+            "price": {
+              "amount": "90.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "2XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Causality Knit Sweater - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966269460775",
+            "title": "3XL / Causality Knit Sweater - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603002-BONE-3XL",
+            "price": {
+              "amount": "90.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "3XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Causality Knit Sweater - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "images": {
+        "nodes": [
+          {
+            "height": 2695,
+            "width": 2169,
+            "altText": null,
+            "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+          }
+        ]
+      },
+      "colorVariants": {
+        "references": {
+          "nodes": [
+            {
+              "colorName": {
+                "value": "Bone"
+              },
+              "imagePreview": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664324391",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/cfb58049a321087e-causality-knit-front.jpg"
+                  }
+                }
+              },
+              "imagePreviewHover": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664357159",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/997a90ae71f1da2f-causality-knit-back.jpg"
+                  }
+                }
+              },
+              "label": {
+                "value": "Causality Knit Sweater - Bone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10078977655079",
+      "handle": "essential-mesh-short",
+      "title": "Essential Mesh Short",
+      "description": "The Essential Mesh Short is crafted from 5.5oz athletic mesh with an exaggerated drape for comfort and wear. An asymmetric hem creates varied proportions, while an oversized drawcord secures the elasticated waist. A concealed zippered pocket is set into the back for secure use.",
+      "descriptionHtml": "<p>The Essential Mesh Short is crafted from 5.5oz athletic mesh with an exaggerated drape for comfort and wear. An asymmetric hem creates varied proportions, while an oversized drawcord secures the elasticated waist. A concealed zippered pocket is set into the back for secure use.</p>",
+      "featuredImage": {
+        "height": 2695,
+        "width": 2169,
+        "altText": null,
+        "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "40.0",
+          "currencyCode": "USD"
+        },
+        "maxVariantPrice": {
+          "amount": "55.0",
+          "currencyCode": "USD"
+        }
+      },
+      "productType": "",
+      "tags": [],
+      "availableForSale": true,
+      "vendor": "originalsin-store",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12628738998567",
+          "name": "Size",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5954547122471",
+              "name": "XS"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954547155239",
+              "name": "S"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954547188007",
+              "name": "M"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954547220775",
+              "name": "L"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954547253543",
+              "name": "XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954547286311",
+              "name": "2XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954547319079",
+              "name": "3XL"
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductOption/12647159562535",
+          "name": "Color Variant",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5982106288423",
+              "name": "Essential Mesh Short - Onyx"
+            }
+          ]
+        }
+      ],
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/50966316810535",
+            "title": "XS / Essential Mesh Short - Onyx",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2601001-ONYX-XS",
+            "price": {
+              "amount": "55.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XS"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Mesh Short - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966316843303",
+            "title": "S / Essential Mesh Short - Onyx",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603001-ONYX-S",
+            "price": {
+              "amount": "55.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "S"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Mesh Short - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966316876071",
+            "title": "M / Essential Mesh Short - Onyx",
+            "availableForSale": true,
+            "quantityAvailable": 8,
+            "sku": "OS2603001-ONYX-M",
+            "price": {
+              "amount": "55.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "M"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Mesh Short - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966316908839",
+            "title": "L / Essential Mesh Short - Onyx",
+            "availableForSale": true,
+            "quantityAvailable": 28,
+            "sku": "OS2603001-ONYX-L",
+            "price": {
+              "amount": "55.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "L"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Mesh Short - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966316941607",
+            "title": "XL / Essential Mesh Short - Onyx",
+            "availableForSale": true,
+            "quantityAvailable": 16,
+            "sku": "OS2601001-ONYX-XL",
+            "price": {
+              "amount": "55.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Mesh Short - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966316974375",
+            "title": "2XL / Essential Mesh Short - Onyx",
+            "availableForSale": true,
+            "quantityAvailable": 12,
+            "sku": "OS2601001-ONYX-2XL",
+            "price": {
+              "amount": "55.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "2XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Mesh Short - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966317007143",
+            "title": "3XL / Essential Mesh Short - Onyx",
+            "availableForSale": true,
+            "quantityAvailable": 5,
+            "sku": "OS2601001-ONYX-3XL",
+            "price": {
+              "amount": "40.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "3XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Mesh Short - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "images": {
+        "nodes": [
+          {
+            "height": 2695,
+            "width": 2169,
+            "altText": null,
+            "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+          }
+        ]
+      },
+      "colorVariants": {
+        "references": {
+          "nodes": [
+            {
+              "colorName": {
+                "value": "Onyx"
+              },
+              "imagePreview": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664226087",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/2800efacf2dfd0a9-mesh-short-front.jpg"
+                  }
+                }
+              },
+              "imagePreviewHover": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664160551",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/812a32d36737cbcd-mesh-short-back.jpg"
+                  }
+                }
+              },
+              "label": {
+                "value": "Essential Mesh Short - Onyx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10078979784999",
+      "handle": "essential-twill-pant",
+      "title": "Essential Twill Pant",
+      "description": "The Essential Twill Pant is crafted from 230gsm premium cotton spandex twill with a slight brush for added softness. Cut for a comfort fit to the body with an exaggerated taper through the leg. An oversized drawcord secures the elasticated waist, while side entry pockets feature custom zipper pullers. Matte black zippers are set into the leg openings for adjustable styling. These pants feature an exaggerated tapered fit. Please refer to our size chart before purchasing.",
+      "descriptionHtml": "<p><meta charset=\"utf-8\">The Essential Twill Pant is crafted from 230gsm premium cotton spandex twill with a slight brush for added softness. Cut for a comfort fit to the body with an exaggerated taper through the leg. An oversized drawcord secures the elasticated waist, while side entry pockets feature custom zipper pullers. Matte black zippers are set into the leg openings for adjustable styling.</p>\n<p>\u00a0</p>\n<p><em><strong>These pants feature an exaggerated tapered fit. Please refer to our size chart before purchasing.</strong></em></p>",
+      "featuredImage": {
+        "height": 2695,
+        "width": 2169,
+        "altText": null,
+        "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "80.0",
+          "currencyCode": "USD"
+        },
+        "maxVariantPrice": {
+          "amount": "80.0",
+          "currencyCode": "USD"
+        }
+      },
+      "productType": "",
+      "tags": [],
+      "availableForSale": true,
+      "vendor": "originalsin-store",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12628743520551",
+          "name": "Size",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5954552955175",
+              "name": "XS"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5976264605991",
+              "name": "S"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5976264638759",
+              "name": "M"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5976264671527",
+              "name": "L"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5976264704295",
+              "name": "XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5976264737063",
+              "name": "2XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5976264769831",
+              "name": "3XL"
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductOption/12647157956903",
+          "name": "Color Variant",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5982103601447",
+              "name": "Essential Twill Pant  - Onyx"
+            }
+          ]
+        }
+      ],
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/50966319300903",
+            "title": "XS / Essential Twill Pant  - Onyx",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2601002-ONYX-XS",
+            "price": {
+              "amount": "80.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XS"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Twill Pant  - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50981616025895",
+            "title": "S / Essential Twill Pant  - Onyx",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2601002-ONYX-S",
+            "price": {
+              "amount": "80.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "S"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Twill Pant  - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50981616058663",
+            "title": "M / Essential Twill Pant  - Onyx",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2601002-ONYX-M",
+            "price": {
+              "amount": "80.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "M"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Twill Pant  - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50981616091431",
+            "title": "L / Essential Twill Pant  - Onyx",
+            "availableForSale": true,
+            "quantityAvailable": 19,
+            "sku": "OS2601002-ONYX-L",
+            "price": {
+              "amount": "80.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "L"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Twill Pant  - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50981616124199",
+            "title": "XL / Essential Twill Pant  - Onyx",
+            "availableForSale": true,
+            "quantityAvailable": 32,
+            "sku": "OS2601002-ONYX-XL",
+            "price": {
+              "amount": "80.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Twill Pant  - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50981616156967",
+            "title": "2XL / Essential Twill Pant  - Onyx",
+            "availableForSale": true,
+            "quantityAvailable": 9,
+            "sku": "OS2601002-ONYX-2XL",
+            "price": {
+              "amount": "80.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "2XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Twill Pant  - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50981616189735",
+            "title": "3XL / Essential Twill Pant  - Onyx",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2601002-ONYX-3XL",
+            "price": {
+              "amount": "80.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "3XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Essential Twill Pant  - Onyx"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "images": {
+        "nodes": [
+          {
+            "height": 2695,
+            "width": 2169,
+            "altText": null,
+            "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+          }
+        ]
+      },
+      "colorVariants": {
+        "references": {
+          "nodes": [
+            {
+              "colorName": {
+                "value": "Onyx"
+              },
+              "imagePreview": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664095015",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/5f97cd09304e8e4e-twill-pant-front.jpg"
+                  }
+                }
+              },
+              "imagePreviewHover": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664062247",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/d72a07f1a17b5a67-twill-pant-back.jpg"
+                  }
+                }
+              },
+              "label": {
+                "value": "Essential Twill Pant  - Onyx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10079242125607",
+      "handle": "great-dragon-hoodie",
+      "title": "The Great Red Dragon Hoodie",
+      "description": "The Great Dragon Hoodie is crafted from substantial 12oz cotton French terry, chosen for its structure and soft hand. An all-over waterbase print wraps the body and hood in subdued tones of plum, onyx, and bone. A heavy enzyme wash softens the surface and lends each piece a lived-in quality. Cut with a raw hem, tonal ribbed cuffs, and a relaxed, oversized silhouette.",
+      "descriptionHtml": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">The Great Dragon Hoodie is crafted from substantial 12oz cotton French terry, chosen for its structure and soft hand. An all-over waterbase print wraps the body and hood in subdued tones of plum, onyx, and bone. A heavy enzyme wash softens the surface and lends each piece a lived-in quality. Cut with a raw hem, tonal ribbed cuffs, and a relaxed, oversized silhouette.<br></p>",
+      "featuredImage": {
+        "height": 2695,
+        "width": 2169,
+        "altText": null,
+        "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "125.0",
+          "currencyCode": "USD"
+        },
+        "maxVariantPrice": {
+          "amount": "125.0",
+          "currencyCode": "USD"
+        }
+      },
+      "productType": "",
+      "tags": [],
+      "availableForSale": true,
+      "vendor": "originalsin-store",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12629266563367",
+          "name": "Size",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5955224404263",
+              "name": "XS"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5955224437031",
+              "name": "S"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5955224469799",
+              "name": "M"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5955224502567",
+              "name": "L"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5955224535335",
+              "name": "XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5955224568103",
+              "name": "2XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5955224600871",
+              "name": "3XL"
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductOption/12647153140007",
+          "name": "Color Variant",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5982095180071",
+              "name": "The Great Red Dragon Hoodie - Red"
+            }
+          ]
+        }
+      ],
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/50982421168423",
+            "title": "XS / The Great Red Dragon Hoodie - Red",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603001-MULTI-XS",
+            "price": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XS"
+              },
+              {
+                "name": "Color Variant",
+                "value": "The Great Red Dragon Hoodie - Red"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50982421201191",
+            "title": "S / The Great Red Dragon Hoodie - Red",
+            "availableForSale": true,
+            "quantityAvailable": 7,
+            "sku": "OS2603001-MULTI-S",
+            "price": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "S"
+              },
+              {
+                "name": "Color Variant",
+                "value": "The Great Red Dragon Hoodie - Red"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50982421233959",
+            "title": "M / The Great Red Dragon Hoodie - Red",
+            "availableForSale": true,
+            "quantityAvailable": 26,
+            "sku": "OS2603001-MULTI-M",
+            "price": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "M"
+              },
+              {
+                "name": "Color Variant",
+                "value": "The Great Red Dragon Hoodie - Red"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50982421266727",
+            "title": "L / The Great Red Dragon Hoodie - Red",
+            "availableForSale": true,
+            "quantityAvailable": 38,
+            "sku": "OS2603001-MULTI-L",
+            "price": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "L"
+              },
+              {
+                "name": "Color Variant",
+                "value": "The Great Red Dragon Hoodie - Red"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50982421299495",
+            "title": "XL / The Great Red Dragon Hoodie - Red",
+            "availableForSale": true,
+            "quantityAvailable": 22,
+            "sku": "OS2603001-MULTI-XL",
+            "price": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "The Great Red Dragon Hoodie - Red"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50982421332263",
+            "title": "2XL / The Great Red Dragon Hoodie - Red",
+            "availableForSale": true,
+            "quantityAvailable": 11,
+            "sku": "OS2603001-MULTI-2XL",
+            "price": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "2XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "The Great Red Dragon Hoodie - Red"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50982421365031",
+            "title": "3XL / The Great Red Dragon Hoodie - Red",
+            "availableForSale": true,
+            "quantityAvailable": 3,
+            "sku": "OS2603001-MULTI-3XL",
+            "price": {
+              "amount": "125.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "3XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "The Great Red Dragon Hoodie - Red"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "images": {
+        "nodes": [
+          {
+            "height": 2695,
+            "width": 2169,
+            "altText": null,
+            "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+          }
+        ]
+      },
+      "colorVariants": {
+        "references": {
+          "nodes": [
+            {
+              "colorName": {
+                "value": "Red"
+              },
+              "imagePreview": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664258855",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/4d04df16ba9c3bf1-great-red-dragon-front.jpg"
+                  }
+                }
+              },
+              "imagePreviewHover": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664291623",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/61289e5b2a80adf7-great-red-dragon-back.jpg"
+                  }
+                }
+              },
+              "label": {
+                "value": "The Great Red Dragon Hoodie - Red"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "gid://shopify/Product/10078981194023",
+      "handle": "tree-of-death-t-shirt",
+      "title": "Tree of Death T-Shirt",
+      "description": "The Tree of Death T-Shirt is crafted from 7oz premium cotton terry with a heavy 1x1 rib at the collar. A washed vintage graphic is printed at the chest in faded onyx tones. Exposed inside-out seams throughout the garment reveal raw construction details. Finished with a relaxed, boxy silhouette.",
+      "descriptionHtml": "<p style=\"text-align: left;\">The Tree of Death T-Shirt is crafted from 7oz premium cotton terry with a heavy 1x1 rib at the collar.\u00a0A washed vintage graphic is printed at the chest in faded onyx tones.\u00a0Exposed inside-out seams throughout the garment reveal raw construction details. Finished with a relaxed, boxy silhouette.\u00a0</p>",
+      "featuredImage": {
+        "height": 2695,
+        "width": 2169,
+        "altText": null,
+        "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "50.0",
+          "currencyCode": "USD"
+        },
+        "maxVariantPrice": {
+          "amount": "50.0",
+          "currencyCode": "USD"
+        }
+      },
+      "productType": "",
+      "tags": [],
+      "availableForSale": false,
+      "vendor": "originalsin-store",
+      "options": [
+        {
+          "id": "gid://shopify/ProductOption/12628746830119",
+          "name": "Size",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5954557870375",
+              "name": "XS"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954557903143",
+              "name": "S"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954557935911",
+              "name": "M"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954557968679",
+              "name": "L"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954558001447",
+              "name": "XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954558034215",
+              "name": "2XL"
+            },
+            {
+              "id": "gid://shopify/ProductOptionValue/5954558066983",
+              "name": "3XL"
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/ProductOption/12647154975015",
+          "name": "Color Variant",
+          "optionValues": [
+            {
+              "id": "gid://shopify/ProductOptionValue/5982098358567",
+              "name": "Tree of Death T-Shirt - Bone"
+            }
+          ]
+        }
+      ],
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/50966321201447",
+            "title": "XS / Tree of Death T-Shirt - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2602001-BONE-XS",
+            "price": {
+              "amount": "50.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XS"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Tree of Death T-Shirt - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966321234215",
+            "title": "S / Tree of Death T-Shirt - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2602001-BONE-S",
+            "price": {
+              "amount": "50.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "S"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Tree of Death T-Shirt - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966321266983",
+            "title": "M / Tree of Death T-Shirt - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2602001-BONE-M",
+            "price": {
+              "amount": "50.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "M"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Tree of Death T-Shirt - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966321299751",
+            "title": "L / Tree of Death T-Shirt - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2602001-BONE-L",
+            "price": {
+              "amount": "50.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "L"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Tree of Death T-Shirt - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966321332519",
+            "title": "XL / Tree of Death T-Shirt - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2603001-BONE-XL",
+            "price": {
+              "amount": "50.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Tree of Death T-Shirt - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966321365287",
+            "title": "2XL / Tree of Death T-Shirt - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2602001-BONE-2XL",
+            "price": {
+              "amount": "50.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "2XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Tree of Death T-Shirt - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/ProductVariant/50966321398055",
+            "title": "3XL / Tree of Death T-Shirt - Bone",
+            "availableForSale": false,
+            "quantityAvailable": 0,
+            "sku": "OS2602001-BONE-3XL",
+            "price": {
+              "amount": "50.0",
+              "currencyCode": "USD"
+            },
+            "selectedOptions": [
+              {
+                "name": "Size",
+                "value": "3XL"
+              },
+              {
+                "name": "Color Variant",
+                "value": "Tree of Death T-Shirt - Bone"
+              }
+            ],
+            "product": {
+              "featuredImage": {
+                "height": 2695,
+                "width": 2169,
+                "altText": null,
+                "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "images": {
+        "nodes": [
+          {
+            "height": 2695,
+            "width": 2169,
+            "altText": null,
+            "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+          }
+        ]
+      },
+      "colorVariants": {
+        "references": {
+          "nodes": [
+            {
+              "colorName": {
+                "value": "Bone"
+              },
+              "imagePreview": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664193319",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/681fd1e869726f4f-tree-of-death-front.jpg"
+                  }
+                }
+              },
+              "imagePreviewHover": {
+                "reference": {
+                  "id": "gid://shopify/MediaImage/43308664127783",
+                  "image": {
+                    "height": 2695,
+                    "width": 2169,
+                    "altText": null,
+                    "url": "/__mirror_assets/cdn.shopify.com/cbf6d54e43c9b0e5-tree-of-death-back.jpg"
+                  }
+                }
+              },
+              "label": {
+                "value": "Tree of Death T-Shirt - Bone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
